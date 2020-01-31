@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addi_elan"
+        android:title="اعلان عادی" />
+    <item
+        android:id="@+id/monasebati_elan"
+        android:title="اعلان مناسبتی" />
+    <item
+        android:id="@+id/tej_elan"
+        android:title="اعلان تجاری" />
+    <item
+        android:id="@+id/fori_elan"
+        android:title="اعلان فوری" />
+    <item
+        android:id="@+id/namayesh"
+        android:title="نمایش اعلان" />
+
+
+</menu>

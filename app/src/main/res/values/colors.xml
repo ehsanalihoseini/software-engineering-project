@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E471F8</color>
+    <color name="colorPrimaryDark">#8110A2</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorFori">#ff0000</color>
+    <color name="colormonasebati">#2AF507</color>
+    <color name="coloraddi">#17EBCC</color>
+    <color name="colortejari">#04164B</color>
+</resources>
